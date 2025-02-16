@@ -55,20 +55,6 @@ A user-friendly AI image generation system that converts text prompts into high-
 3. **Adjust Parameters** (Optional): Modify sampling steps, CFG scale, or negative prompts for better results.
 4. **Download**: Save the generated image to your device.
 
-![Example Workflow](https://via.placeholder.com/600x400?text=ComfyUI+Workflow+Example)
-
----
-
-## 📂 Project Structure
-
-ComfyUI_windows_portable/
-├── ComfyUI/
-│ ├── models/
-│ │ └── checkpoints/ # Stable Diffusion model goes here
-├── run_nvidia_gpu.bat # Run with GPU acceleration
-└── run_cpu.bat # Run on CPU
-
-
 ---
 
 ## 📜 References
